@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: configclient
+    profiles:
+      active: dev
+    cloud:
+      config:
+        uri: http://loucalhost:8762
+        fail-fast: true
