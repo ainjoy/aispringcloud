@@ -13,6 +13,7 @@
         <module name="feign" />
         <module name="nativeconfigclient" />
         <module name="nativeconfigserver" />
+        <module name="configserver" />
         <module name="eurekaserver" />
         <module name="consumer" />
         <module name="eurekaclient" />
